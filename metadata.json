@@ -1,0 +1,6 @@
+{
+  "name": "GRI Certificate Verification & Distribution Portal",
+  "description": "Official Participant Certificate Verification and Distribution Portal for the Design Thinking Course Field Visit (31st October 2026) by Centre for Grassroots Research & Innovation (GRI), FET, JAIN (Deemed-to-be University).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
